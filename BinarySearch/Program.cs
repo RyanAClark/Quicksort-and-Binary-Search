@@ -14,7 +14,6 @@ namespace BinarySearch
         
         public BinarySearch(int[] x){
             array=x;
-            
         }
 
         public int partition(int []a ,int left, int right){
